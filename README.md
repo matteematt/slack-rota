@@ -60,7 +60,7 @@ The script itself can only handle one squad, though there is a trivial workaroun
 
 ## Limitations
 
-This script was fairly speedily thrown together so there is fairly limited functionality. It would be good to improve these in the future
+This script was fairly speedily thrown together so there is fairly limited functionality. It would be good to improve the script with these features in the future:
 
 ### Multi Squad Setup
 
@@ -68,7 +68,7 @@ While there is a decent workaround using the filesystem it would be good to allo
 
 ### Tasks of Other Time Lengths
 
-The script is built just to inform about some kind of daily task that a member of the squad needs to complete. However there may be tasks that only need doing in the squad once per week. It would be good in future to perhaps use the JOSN file from above to have a setting for how often we need the task to be ran (perhaps once per week).
+The script is built just to inform about some kind of daily task that a member of the squad needs to complete. However there are likely tasks that rotate through the squad, but at different time intervals. It would be good in future to perhaps use the JSON file from above to have a setting for how often we need the task to be ran (perhaps once per week).
 
 ### Slack Messages
 
