@@ -3,6 +3,8 @@ Daily Rota for Organising Teams via a Slack Bot. Every working day (ignoring UK 
 the rota will alert the squad and tag the user who's day it is to complete the activities. Once the rota is
 finished a new one will be generated with all of the names, in a random order each time.
 
+![./docs/example.png](Example output in slack channel.)
+
 ## Setup
 
 ### Requirements
