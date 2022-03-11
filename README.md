@@ -16,7 +16,7 @@ finished a new one will be generated with all of the names, in a random order ea
 
 ### Creating the slack bot
 
-1. Ensure you're logged into Slack on the web browser and then go to [https://api.slack.com/apps?new_app=1](the slackbot config).
+1. Ensure you're logged into Slack on the web browser and then go to [the slackbot config](https://api.slack.com/apps?new_app=1).
 2. Click `Create New App` -> `From Scratch` -> Give it a name (slack rota for example) and add to the company workplace.
 3. If your company requires apps to be approved by admins then you now need to wait for them to verify it.
 4. On the create app page, you should now see your app. Click on it to open the app settings.
